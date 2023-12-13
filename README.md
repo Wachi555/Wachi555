@@ -1,5 +1,5 @@
-### Hi there 👋
-
+- I'm studying Artificial Intelligence and Data Science
+- I'm especially interested in C++ and Python
 <!--
 **Wachi555/Wachi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
